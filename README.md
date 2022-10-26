@@ -4,7 +4,7 @@ I am a passionate front-end developer always ready to create and give life to ae
 
 
 ## GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jozz77&show_icons=true&theme=dark)](https://github.com/Jozz77/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jozz77&show_icons=true&theme=radical)](https://github.com/Jozz77/github-readme-stats)
 
 
 <!--
