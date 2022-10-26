@@ -1,5 +1,12 @@
 ## Hi there 👋 I am Jonathan
 
+I am a passionate front-end developer always ready to create and give life to aesthetically pleasing, user friendly and accessible web applications using technologies like Html, Css, Tailwind, Git and Javascript
+
+
+## GitHub Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=Jozz77theme=radical&show_icons=true&count_private=true)
+
+
 <!--
 **Jozz77/Jozz77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
