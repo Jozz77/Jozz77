@@ -1,6 +1,8 @@
 ## Hi there 👋 I am Jonathan
 
-I am a passionate front-end developer always ready to create and give life to aesthetically pleasing, user friendly and accessible web applications using technologies like Html, Css, Tailwind, Git and Javascript
+I am a passionate Software Engineer and Frontend Developer with over 3 years of experience, always ready to create and give life to aesthetically pleasing, user-friendly, and accessible web applications. I leverage a robust technical stack including HTML, CSS, Tailwind, SCSS, JavaScript, and TypeScript to build responsive interfaces.
+
+My expertise extends to modern frameworks and libraries like React JS, Next JS, Vue Js, and HTMX, with a strong focus on secure architectures using Node.js, Express, and Django. I am proficient in version control via Git/GitHub and experienced in deploying distributed edge logic through Cloudflare Workers and Webhooks. With a proven track record in open-source development and a transition toward Digital Trust and AI Security, I am dedicated to implementing verifiable trust frameworks and scalable automated workflows.
 
 
 ## GitHub Stats
