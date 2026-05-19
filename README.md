@@ -1,8 +1,45 @@
-## Hi there 👋 I am Jonathan
+# Hi there 👋 I'm Jonathan Mmadu
 
-I am a passionate Software Engineer and Frontend Developer with over 3 years of experience, always ready to create and give life to aesthetically pleasing, user-friendly, and accessible web applications. I leverage a robust technical stack including HTML, CSS, Tailwind, SCSS, JavaScript, and TypeScript to build responsive interfaces.
+I am a performance-driven **Fullstack & Frontend Engineer** based in Lagos, Nigeria. I specialize in building highly secure, resilient, and ultra-fast web applications. My development philosophy is simple: write clean, no-bloat code that bridges the gap between stunning visual design and robust backend architecture.
 
-My expertise extends to modern frameworks and libraries like React JS, Next JS, Vue Js, and HTMX, with a strong focus on secure architectures using Node.js, Express, and Django. I am proficient in version control via Git/GitHub and experienced in deploying distributed edge logic through Cloudflare Workers and Webhooks. With a proven track record in open-source development and a transition toward Digital Trust and AI Security, I am dedicated to implementing verifiable trust frameworks and scalable automated workflows.
+Beyond building commercial products, I am deeply committed to open-source software and digital trust, actively contributing to global security and automation frameworks.
+
+---
+
+### 🚀 What I'm Focused On
+* **Performance-First Engineering:** I am quite obsessed with web optimization, consistently engineering interfaces to hit **90+ Lighthouse scores** to ensure accessibility on any device or network constraint.
+* **Open Source & Digital Trust:** I am a **Contributor to the OWASP Foundation** (working on edge-native migrations like BLT-Next using Cloudflare Workers and HTMX) and a contributor to the **Jenkins project**. 
+* **Secure Architectures:** Moving the needle toward AI Security and Digital Trust by implementing verifiable trust frameworks and bulletproof API ecosystems.
+
+---
+
+### 🛠️ My Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | JavaScript (ES6+), TypeScript, React, Next.js, Vue.js, HTMX, HTML5, CSS3, Tailwind CSS, SCSS |
+| **Backend & Edge** | Node.js, Express, Python, Django, Cloudflare Workers, Webhooks |
+| **Tools & Security** | Git & GitHub, Docker, Kubernetes, Jira, OWASP Core Frameworks, CI/CD Pipelines |
+
+---
+
+### 📊 Open Source Highlights
+* **OWASP Foundation:** Contributor focused on bug-logging ecosystems, security tooling, and edge-native architecture migrations.
+* **Jenkins Project:** Contributing to open-source automation servers to streamline developer workflows globally.
+
+---
+
+### ⚡ Fun Facts & Interests
+* 📖 When I am not optimizing bundle sizes, you can find me reading mystery and adventure novels.
+* 🏀 Huge fan of professional sports—closely tracking NBA player stats and European football league tactical setups.
+* 🌿 Strong advocate for "Digital ESG"—building highly optimized code because lightweight websites directly cut down server energy consumption and reduce the planet's digital carbon footprint.
+
+---
+
+### 📫 Let's Connect!
+* **Email:** mmadujonathan@gmail.com
+* **LinkedIn:** [https://www.linkedin.com/in/jonathan-mmadu-45a714219/](https://www.linkedin.com/in/jonathan-mmadu-45a714219/)
+* **Portfolio:** [https://jozzdev.vercel.app/]
 
 
 ## GitHub Stats
